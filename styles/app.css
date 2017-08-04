@@ -1,5 +1,5 @@
 .jumbotron {
-    background: url('http://ugmonk.com/wp-content/uploads/2016/03/category-clothing-1.jpg') center no-repeat;
+    background: url('https://ugmonk.com/wp-content/uploads/2016/03/category-clothing-1.jpg') center no-repeat;
     background-size: cover;
     height: 60vh;
     width: 75%;
@@ -11,6 +11,14 @@
 
 .jumbotron h1 {
     color: #fff;
+}
+
+.devmtnlogo {
+    height: 75px;
+    width: auto;
+    position: absolute;
+    right: 5vw;
+    top: 4vh;
 }
 
 
